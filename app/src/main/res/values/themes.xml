@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.HaystackChallenge" parent="@style/Theme.Leanback" />
+</resources>
