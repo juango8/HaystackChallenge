@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HaystackChallenge</string>
+    <string name="image_of_the_card">image of the card</string>
 </resources>
